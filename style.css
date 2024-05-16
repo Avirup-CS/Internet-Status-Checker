@@ -8,6 +8,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url('img.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .maq {
