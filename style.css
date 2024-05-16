@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('img.jpg');
+    background-size: cover;
+}
+
+.maq {
+    background-color: turquoise;
+    background-size: 500px;
+    color: blue;
+}
+
+.container {
+    max-width: 500px;
+    margin: 180px auto;
+    background-color: rgba(213, 239, 198, 0.871);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 25px cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.module {
+    font-size: 15px;
+    text-align: center;
+}
+
+.copyright {
+    color: turquoise;
+}
